@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mikemorris480
 - 👀 I’m interested in all things Microsoft .NET Development
-- 🌱 I’m currently learning Front End 
+- 🌱 I’m currently learning Front End Web Development
 - 💞️ I’m looking to collaborate on projects involving AI
-- 📫 You can reach me at mikemoris480@gmail.com
+- 📫 You can reach me at mikemorris480@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The moon is not made out of cheese.
 
