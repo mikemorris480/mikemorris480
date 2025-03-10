@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikemorris480
-- 👀 I’m interested in Microsoft .NET Development
-- 🌱 I’m currently learning Generative AI
+- 👀 I’m interested in all things Microsoft .NET Development
+- 🌱 I’m currently learning Front End 
 - 💞️ I’m looking to collaborate on projects involving AI
 - 📫 You can reach me at mikemoris480@gmail.com
 - 😄 Pronouns: he/him
